@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "slotmachine.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
